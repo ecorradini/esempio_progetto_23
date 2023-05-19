@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ombrellone_1",
+    "nome": "Ombrellone prima fila",
+    "tipo": "Ombrellone",
+    "posizione": "Prima fila",
+    "prezzo": 30.0
+  },
+  {
+    "id": "ombrellone_2",
+    "nome": "Ombrellone seconda fila",
+    "tipo": "Ombrellone",
+    "posizione": "Seconda fila",
+    "prezzo": 25.0
+  },
+  {
+    "id": "ombrellone_3",
+    "nome": "Ombrellone terza fila",
+    "tipo": "Ombrellone",
+    "posizione": "Terza fila",
+    "prezzo": 20.0
+  }
+]
